@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [#currently_working](#currently_working)
+- 👨‍💻 All of my projects are available at [https://github.com/idityaGE](#currently_working)
 
 - 💬 Ask me about **JavaScript**
 
