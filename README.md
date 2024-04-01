@@ -1,5 +1,12 @@
+
+<picture>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+</picture>
+
 # Hi 👋 I am Aditya
-## Web Developer | B.Tech Student
+
+Web Developer | B.Tech Student
+
 Passionate Student and Dedicated Coder: Navigating the Intersection of Learning and Programming
 
 * 🌍  I'm based in India
@@ -13,6 +20,7 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-maurya-b0a0b6298/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idity_dx)
 
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <h3 align="left">Skills:</h3>
 <p align="left">
@@ -41,13 +49,19 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### Badges
 
 <h4>My GitHub Stats</h4>
+<!--  CAT  -->
+<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
 
-<a href="http://www.github.com/idityaGE"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idityaGE&langs_count=3&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" alt="Top Languages"/></a>
+<!--  HI PIKACHU  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 <a href="http://www.github.com/idityaGE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=idityaGE&stroke=70a5fd&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=bf91f3&currStreakLabel=bf91f3&sideNums=70a5fd&sideLabels=70a5fd&dates=38bdae&hide_border=true" alt="Github streak stats"/></a>
+
 <a href="http://www.github.com/idityaGE"><img src="https://github-readme-activity-graph.vercel.app/graph?username=idityaGE&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area_color=1a1b27&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
