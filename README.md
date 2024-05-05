@@ -123,7 +123,9 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
 
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-### Badges
+###
+
+## Badges
 
 <h4>My GitHub Stats</h4>
 <!--  CAT  -->
