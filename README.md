@@ -11,7 +11,7 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
 
 * 🌍  I'm based in India
 * ✉️  You can reach me at [adiimaurya02@gmail.com](mailto:adiimaurya02@gmail.com)
-* 🧠  I'm currently learning Next JS
+* 🧠  I'm currently learning Rust
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡ Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
 
