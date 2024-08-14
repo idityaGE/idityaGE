@@ -10,6 +10,7 @@ Web Developer | B.Tech Student
 Passionate Student and Dedicated Coder: Navigating the Intersection of Learning and Programming
 
 * 🌍  I'm based in India
+* 🚀  [Portfolio](https://idityage.github.io/)  
 * ✉️  You can reach me at [adiimaurya02@gmail.com](mailto:adiimaurya02@gmail.com)
 * 🧠  I'm currently learning Rust
 * 🤝  I'm open to collaborating on interesting projects
