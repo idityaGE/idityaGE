@@ -120,7 +120,7 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img src="https://simpleicons.org/icons/socketdotio.svg" height="40" alt="socketio logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
@@ -131,6 +131,10 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://www.tech-stack-icons.com/assets/light/jest.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" height="40" alt="vitest logo"  />
 </div>
 
 ###
