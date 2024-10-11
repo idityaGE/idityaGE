@@ -44,98 +44,236 @@ Passionate Student and Dedicated Coder: Navigating the Intersection of Learning 
 
 <h3 align="left">Skills:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="c logo"  />
+  
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="c logo"  />
+  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />,
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  
+  <a href="https://www.vim.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo"  />
+  
+  <a href="https://appwrite.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  
+  <a href="https://replit.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+  </a>
   <img width="12" />
-  <img src="https://simpleicons.org/icons/socketdotio.svg" height="40" alt="socketio logo" />
+  
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://simpleicons.org/icons/socketdotio.svg" height="40" alt="socketio logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="vite logo"  />
+  
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="vite logo"  />
+  
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="vite logo"  />
+  
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="vite logo"  />
+  
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo" />
+  </a>
   <img width="12" />
-  <img src="https://www.tech-stack-icons.com/assets/light/jest.svg" height="40" alt="jest logo"  />
+  
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://www.tech-stack-icons.com/assets/light/jest.svg" height="40" alt="jest logo" />
+  </a>
   <img width="12" />
-  <img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" height="40" alt="vitest logo"  />
+  
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" height="40" alt="vitest logo" />
+  </a>
 </div>
+
 
 ###
 
