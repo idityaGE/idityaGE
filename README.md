@@ -1,16 +1,11 @@
 <picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="30%" alt="Image">
 </picture>
 
 # Hi 👋 I am Aditya
-Web Developer | B.Tech Student
+FSD | DevOps | Next JS | AWS | Rust | C++
 
-* 🌍  I'm based in India
-* 🚀  <a href="https://idityage.github.io/" target="_blank">Portfolio</a> 
-* ✉️  You can reach me at [adiimaurya02@gmail.com](mailto:adiimaurya02@gmail.com)
-* 🧠   I'm currently learning Rust
-* 🤝   I'm open to collaborating on interesting projects <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-* ⚡    Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
+* ⚡ Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 <br/>
