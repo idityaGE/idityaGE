@@ -35,3 +35,5 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 [<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="kubernetes logo" />](https://kubernetes.io/)
 [<img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="kafka logo" />](https://kafka.apache.org/)
 [<img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" width="40" height="40" alt="vitest logo" />](https://vitest.dev/)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/idityage?theme=dark&font=baloo&extension=null)
