@@ -36,5 +36,5 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 [<img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="kafka logo" />](https://kafka.apache.org/)
 [<img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" width="40" height="40" alt="vitest logo" />](https://vitest.dev/)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/768679363767697430)](https://discord.com/users/768679363767697430)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/768679363767697430)](https://discord.com/users/768679363767697430) -->
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/idityage?theme=dark&font=ABeeZee) -->
