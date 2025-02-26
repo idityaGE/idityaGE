@@ -38,7 +38,7 @@ FSD | DevOps | Next JS | AWS | Rust | C++
     </td>
     <td width="50%">
       <a href="https://leetcode.com/idityage/">
-        <img src="https://leetcard.jacoblin.cool/idityage?theme=nord&font=JetBrains%20Mono" alt="LeetCode Stats" width="100%">
+        <img src="https://leetcard.jacoblin.cool/idityage?theme=nord&font=Noto%20Sans%20Mandaic&ext=heatmap" alt="LeetCode Stats" width="100%">
       </a>
     </td>
   </tr>
