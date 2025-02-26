@@ -7,15 +7,16 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 
 * 🚀 [Portfolio](https://iditya.tech)
 * ⚡ Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
-
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
+<!--
 ## 🔗 Links
 [![linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/iditya/)
 [![twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/am44910606)
 [![discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/idityage)
 [![telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/idityage)
 [![gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:am44910606@gmail.com?subject=Hello%20!)
+-->
 
 ## 🛠 Skills
 [<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cplusplus logo" />](https://isocpp.org/)
