@@ -28,11 +28,18 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 [<img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="kafka logo" />](https://kafka.apache.org/)
 [<img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" width="40" height="40" alt="vitest logo" />](https://vitest.dev/)
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 15px;">
-  <a href="https://discord.com/users/768679363767697430" style="flex: 1 1 400px; min-width: 0; max-width: 100%;">
-    <img src="https://lanyard.cnrad.dev/api/768679363767697430" alt="Discord Presence" style="width: 100%; height: auto;" />
-  </a>
-  <a href="https://leetcode.com/idityage/" style="flex: 1 1 400px; min-width: 0; max-width: 100%;">
-    <img src="https://leetcard.jacoblin.cool/idityage?theme=nord&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" style="width: 100%; height: auto;" />
-  </a>
-</div>
+## Stats
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://discord.com/users/768679363767697430">
+        <img src="https://lanyard.cnrad.dev/api/768679363767697430" alt="Discord Presence" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://leetcode.com/idityage/">
+        <img src="https://leetcard.jacoblin.cool/idityage?theme=nord&font=JetBrains%20Mono" alt="LeetCode Stats" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
