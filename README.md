@@ -33,7 +33,7 @@ FSD | DevOps | Next JS | AWS | Rust | C++
   <tr>
     <td width="50%">
       <a href="https://discord.com/users/768679363767697430">
-        <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true" alt="Discord Presence" width="100%">
+        <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true&idleMessage=Sleeping...%F0%9F%98%B4" alt="Discord Presence" width="100%">
       </a>
     </td>
     <td width="50%">
