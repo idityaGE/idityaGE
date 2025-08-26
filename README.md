@@ -12,11 +12,11 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 ## 🛠 Skills
 [<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cplusplus logo" />](https://isocpp.org/)
 [<img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="rust logo" />](https://www.rust-lang.org/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" />](https://go.dev/doc/)
 [<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="python logo" />](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="javascript logo" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript logo" />](https://www.typescriptlang.org/)
 [<img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express logo" />](https://expressjs.com/)
-[<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react logo" />](https://react.dev/)
 [<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs logo" />](https://nextjs.org/)
 [<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker logo" />](https://www.docker.com/)
 [<img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="redis logo" />](https://redis.io/)
@@ -24,9 +24,12 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 [<img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="prisma logo" />](https://www.prisma.io/)
 [<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="aws logo" />](https://aws.amazon.com/)
 [<img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="cloudflare logo" />](https://www.cloudflare.com/)
-[<img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="kubernetes logo" />](https://kubernetes.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />](https://kubernetes.io/)
 [<img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="kafka logo" />](https://kafka.apache.org/)
-[<img src="https://www.tech-stack-icons.com/assets/light/vitest.svg" width="40" height="40" alt="vitest logo" />](https://vitest.dev/)
+<img width="8" />
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" title="Solana" width="36" height="36" />](https://solana.com/)
+
 
 ## Stats
 <table>
