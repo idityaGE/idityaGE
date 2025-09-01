@@ -2,12 +2,11 @@
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="30%" alt="Image">
 </picture>
 
-# Hi 👋 I am Aditya
-FSD | DevOps | Next JS | AWS | Rust | C++
-* 🚀 [Portfolio](https://iditya.tech)
-* ⚡ Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
+<h2>Hi 👋 I am Aditya <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35" /></h2>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+Web3 | DevOps | Rust
+* [Portfolio](https://iditya.tech)
+* Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
 
 ## 🛠 Skills
 [<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cplusplus logo" />](https://isocpp.org/)
@@ -35,18 +34,17 @@ FSD | DevOps | Next JS | AWS | Rust | C++
 [<img src="https://svgicons.com/api/ogimage/?id=191200&n=tauri-dark" width="40" height="40" alt="tauri logo" />](#)
 [<img src="https://svgicons.com/api/ogimage/?id=190954&n=electron" width="40" height="40" alt="Electron logo" />](#)
 [<img src="https://svgicons.com/api/ogimage/?id=191179&n=solidity" width="40" height="40" alt="solidity logo" />](#)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" alt="Solana" title="Solana" height="40" />](https://solana.com/)
-
+[<img src="https://svgicons.com/api/ogimage/?id=212280&n=solana" width="40" height="40" alt="solidity logo" />](#)
 
 ## Stats
 <table>
   <tr>
-    <td width="50%">
+    <td width="40%">
       <a href="https://discord.com/users/768679363767697430">
         <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true&idleMessage=Sleeping...%F0%9F%98%B4" alt="Discord Presence" width="100%">
       </a>
     </td>
-    <td width="50%">
+    <td width="35%">
       <a href="https://leetcode.com/idityage/">
         <img src="https://leetcard.jacoblin.cool/idityage?theme=radical&font=Noto%20Sans%20Mandaic&ext=heatmap" alt="LeetCode Stats" width="100%">
       </a>
