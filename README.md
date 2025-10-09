@@ -5,7 +5,7 @@
 
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="25%" alt="Image">
 
-<sub>Web3 | DevOps | Rust</sub>
+<sub>Web3 | DevOps | Full Stack</sub>
 
 * [Portfolio](https://iditya.tech)  
 * Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
