@@ -47,11 +47,13 @@
   <tr>
     <td width="40%">
 <!--START_SECTION:waka-->
-        
-        From: 02 October 2025 - To: 09 October 2025
-        
-        No activity tracked
-        
+
+```txt
+From: 02 October 2025 - To: 09 October 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </td>
 
