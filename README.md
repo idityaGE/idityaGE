@@ -42,9 +42,11 @@
 <table>
   <tr>
     <td width="40%">
-      <a href="https://discord.com/users/768679363767697430">
+      <!-- <a href="https://discord.com/users/768679363767697430">
         <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true&idleMessage=Sleeping...%F0%9F%98%B4" alt="Discord Presence" width="100%">
-      </a>
+      </a> -->
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
     </td>
     <td width="32%">
       <a href="https://leetcode.com/idityage/">
