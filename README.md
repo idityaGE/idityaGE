@@ -46,7 +46,14 @@
         <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true&idleMessage=Sleeping...%F0%9F%98%B4" alt="Discord Presence" width="100%">
       </a> -->
       <!--START_SECTION:waka-->
-      <!--END_SECTION:waka-->
+
+```txt
+From: 02 October 2025 - To: 09 October 2025
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
     </td>
     <td width="32%">
       <a href="https://leetcode.com/idityage/">
