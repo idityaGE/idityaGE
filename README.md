@@ -37,28 +37,28 @@
 [<img src="https://svgicons.com/api/ogimage/?id=190954&n=electron" width="36" height="36" alt="Electron logo" />](https://www.electronjs.org/)
 [<img src="https://svgicons.com/api/ogimage/?id=191179&n=solidity" width="36" height="36" alt="Solidity logo" />](https://soliditylang.org/)
 [<img src="https://svgicons.com/api/ogimage/?id=212280&n=solana" width="36" height="36" alt="Solana logo" />](https://solana.com/)
+     
+<!-- <a href="https://discord.com/users/768679363767697430">
+        <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true&idleMessage=Sleeping...%F0%9F%98%B4" alt="Discord Presence" width="100%">
+</a> -->
 
 #### Stats
 <table>
   <tr>
     <td width="40%">
-      <!-- <a href="https://discord.com/users/768679363767697430">
-        <img src="https://lanyard.cnrad.dev/api/768679363767697430?animated=false&theme=dark&borderRadius=10px&hideActivity=false&showDisplayName=true&idleMessage=Sleeping...%F0%9F%98%B4" alt="Discord Presence" width="100%">
-      </a> -->
-      <!--START_SECTION:waka-->
-
-```txt
-From: 02 October 2025 - To: 09 October 2025
-
-No activity tracked
-```
-
+<!--START_SECTION:waka-->
+        
+        From: 02 October 2025 - To: 09 October 2025
+        
+        No activity tracked
+        
 <!--END_SECTION:waka-->
-    </td>
-    <td width="32%">
-      <a href="https://leetcode.com/idityage/">
+</td>
+
+  <td width="32%">
+    <a href="https://leetcode.com/idityage/">
         <img src="https://leetcard.jacoblin.cool/idityage?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="100%">
-      </a>
-    </td>
+    </a>
+</td>
   </tr>
 </table>
