@@ -49,13 +49,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Rust         1 hr 14 mins    ████████████████████▓░░░░   82.77 %
-Markdown     13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Rust              1 hr 14 mins    █████████▓░░░░░░░░░░░░░░░   39.21 %
+Go                54 mins         ███████░░░░░░░░░░░░░░░░░░   28.39 %
+Protocol Buffer   42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+Markdown          16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
