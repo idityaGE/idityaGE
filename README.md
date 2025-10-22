@@ -7,8 +7,9 @@
 
 <sub>Web3 | DevOps | Full Stack</sub>
 
-* [Portfolio](https://nextport-ten.vercel.app/)  
-* Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
+> [Portfolio](https://nextport-ten.vercel.app/)
+
+> Fun fact: Weeb by Heart, Athlete by Skill: Bridging the Gap Between Otaku Passion and Sporting Excellence
 
 #### Tech Stack
 [<img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++ logo" />](https://isocpp.org/)
