@@ -46,7 +46,7 @@
 #### Stats
 <table>
   <tr>
-    <td width="40%">
+    <td width="30%">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -62,7 +62,7 @@ JavaScript   6 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </td>
 
-  <td width="32%">
+  <td width="42%">
     <a href="https://leetcode.com/idityage/">
         <img src="https://leetcard.jacoblin.cool/idityage?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="100%">
     </a>
