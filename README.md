@@ -50,14 +50,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2025 - To: 22 October 2025
+From: 16 October 2025 - To: 23 October 2025
 
-Rust         14 hrs 2 mins   █████████████░░░░░░░░░░░░   52.58 %
-TypeScript   9 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   35.49 %
-SQL          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-CSS          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Rust         15 hrs          █████████████▒░░░░░░░░░░░   52.78 %
+TypeScript   10 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.15 %
+SQL          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
