@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-TypeScript   16 hrs 32 mins  █████████████████░░░░░░░░   67.63 %
-Rust         4 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-QML          51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript     17 hrs 16 mins  ██████████████▓░░░░░░░░░░   58.75 %
+Rust           3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Markdown       1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+QML            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JavaScript     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
