@@ -50,13 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-TypeScript   8 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-Bash         6 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-JavaScript   4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Docker       1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Markdown     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript   5 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 %
+Bash         4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+JavaScript   4 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Docker       1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+SQL          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Markdown     55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
