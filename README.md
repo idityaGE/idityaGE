@@ -50,14 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2025 - To: 21 November 2025
+From: 15 November 2025 - To: 22 November 2025
 
-TypeScript   5 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.44 %
-JavaScript   3 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Bash         1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Docker       1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-SQL          1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Markdown     47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+TypeScript   3 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 %
+JavaScript   3 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+SQL          1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Bash         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Prisma       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
